@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green?style=for-the-badge&logoSize=auto" />
+</p>
+
+    
 # Sistema de Plano de Saúde
 Projeto criado para a venda de planos de saúde, com o objetivo de cobrar diferentes valores baseando-se na idade de cada cliente.
 
@@ -13,3 +18,6 @@ Projeto criado para a venda de planos de saúde, com o objetivo de cobrar difere
   - `49-58 anos:` 350% do valor base
   - `a partir de 59 anos:` 600% do valor base
 - `Funcionalidade 3:` Apresenta o valor mensal a ser pago
+
+# 🖥️Tecnologias usadas🖥️
+[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
